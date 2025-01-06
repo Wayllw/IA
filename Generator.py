@@ -37,7 +37,6 @@ def mensagem(mensagem:str):
     sucesso.mainloop()
 
 
-
 login = tk.Tk()
 bold = font.Font(weight="bold")
 login.title("Quote Generator")
